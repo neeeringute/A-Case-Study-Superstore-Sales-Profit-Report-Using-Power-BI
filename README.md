@@ -51,7 +51,7 @@ The **Sales Performance Dashboard** provides a comprehensive view of the superst
 
 ## Profit Analysis Dashboard
 
-![img.png](img.png)
+![Screenshot 2024-10-12 001218](https://github.com/user-attachments/assets/f5b6f994-d691-45e7-89cf-5bcb7b0061c0)
 
 ### Dashboard Overview
 The **Profit Analysis Dashboard** offers a deeper dive into profit metrics, allowing users to explore profits across customer segments, regions, and product categories. By visualizing geographic and product-based profit data, the dashboard provides actionable insights into profitability trends.
