@@ -16,7 +16,8 @@ Before starting, ensure you have:
 
 ## Sales Performance Dashboard
 
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/88a121fe-4ac4-4d97-a4c3-2c5fcda8fff1)
+
 
 ### Dashboard Overview
 The **Sales Performance Dashboard** provides a comprehensive view of the superstore's sales metrics. The goal is to analyze top-selling products, total sales, customer count, and the geographic distribution of sales. Users can filter data dynamically to explore different time periods and customer behaviors.
